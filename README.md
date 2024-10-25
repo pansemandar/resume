@@ -1,4 +1,5 @@
-# Your Name
+# Your Name [Download PDF](./YourName_ resume.pdf)
+
 **Email:** your.email@example.com | **Phone:** (123) 456-7890 | **LinkedIn:** linkedin.com/in/your-profile | **GitHub:** github.com/your-username
 
 ---
